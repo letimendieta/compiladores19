@@ -1,0 +1,28 @@
+L_llave  
+   stringdos_puntosL_corchete  
+      L_llave  
+         stringdos_puntosnumerocoma
+         stringdos_puntosstringcoma
+         stringdos_puntosPR_falsecoma
+         stringdos_puntosL_corchete  
+
+         R_corchete
+      R_llavecoma
+      L_llave  
+         stringdos_puntosnumerocoma
+         stringdos_puntosstringcoma
+         stringdos_puntosPR_truecoma
+         stringdos_puntosL_corchete  
+            L_llave  
+               stringdos_puntosstringcoma
+               stringdos_puntosnumero
+            R_llavecoma
+            L_llave  
+               stringdos_puntosstringcoma
+               stringdos_puntosnumero
+            R_llave
+         R_corchete
+      R_llave
+   R_corchete
+R_llave
+EOF
